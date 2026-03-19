@@ -10,15 +10,7 @@
 - 📊 데이터 기반 의사결정과 사용자 경험 개선을 중요하게 생각  
 
 
-## 📊 Stats
-
-<table>
-  <tr>
-    <td>
-      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hoyeon0603" />
-    </td>
-  </tr>
-</table>
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hoyeon0603" />
 
 ---
 
