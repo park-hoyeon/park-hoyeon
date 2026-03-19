@@ -9,6 +9,17 @@
 - 🔥 실제 문제 해결을 위한 서비스 개발에 관심  
 - 📊 데이터 기반 의사결정과 사용자 경험 개선을 중요하게 생각  
 
+
+## 📊 Stats
+
+<table>
+  <tr>
+    <td>
+      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hoyeon0603" />
+    </td>
+  </tr>
+</table>
+
 ---
 
 ## 🧠 Tech Stack
@@ -32,24 +43,7 @@
 ![IntelliJ](https://img.shields.io/badge/INTELLIJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
----
 
-## 🚀 Projects
-
-- ✨ **Hover AI**  
-  → 시각장애인을 위한 터치스크린 보조 AI 서비스  
-
-- 💻 **PromptMate**  
-  → AI 프롬프트 리라이팅 & 평가 플랫폼  
-
-- 🎭 **MyOT**  
-  → 뮤지컬 커뮤니티 플랫폼 (백엔드 설계 및 구현)  
-
-- 🧑‍⚕️ **요양보호사 매칭 플랫폼**  
-  → 구인·구직 매칭 시스템 개발  
-
-- 📚 **조작적 수업 자료 웹사이트**  
-  → 학습 콘텐츠 제공 서비스  
 
 ---
 
@@ -80,17 +74,8 @@
 - 🌍 기술로 사회 문제 해결하는 것에 관심  
 - 🚀 아이디어 → 실제 서비스 구현을 즐김  
 
----
 
-## 📊 Stats
 
-<table>
-  <tr>
-    <td>
-      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hoyeon0603" />
-    </td>
-  </tr>
-</table>
 
 ---
 ## 💻 DEV's log 💻
